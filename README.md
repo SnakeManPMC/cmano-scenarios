@@ -1,2 +1,3 @@
 # cmano-scenarios
-CMANO Scenarios
+
+Command Modern Air/Naval Operations, Scenarios
